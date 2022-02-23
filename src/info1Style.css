@@ -1,0 +1,96 @@
+.infoStyle{
+    
+    position: absolute;
+    left: 37em;
+    top:13em;
+    background-color: rgb(153, 179, 202);
+    width:21em;
+    height:25em;
+    border-bottom-left-radius:1em ;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;        
+  
+  
+}
+#reason{
+    position: absolute;
+top:12em;
+width: 20em;
+left: 0.5em;
+}
+#email{
+    position: absolute;
+    top:9em;
+    width: 20em;
+    left: 0.5em;
+}
+#reason{
+    position: absolute;
+    top:14em;
+    width: 20em;
+    left: 0.5em;
+}
+#name{
+position: absolute;
+top:4em;
+width: 20em;
+left: 0.5em;
+}
+#name_text{
+    position: absolute;
+top:2em;
+width: 20em;
+left: 0.5em;
+}  
+#email_text{
+    position: absolute;
+top:7em;
+width: 20em;
+left: 0.5em;
+}
+#reason_text{
+    position: absolute;
+top:12em;
+width: 20em;
+left: 0.5em;
+}
+#sub_btn{
+    position: absolute;
+    top:22em;
+
+    left: 4.5em;
+
+   
+}
+#back{
+    position: absolute;
+    top:22em;
+
+    left: 0.5em;
+}      
+#info_text{
+    position: absolute;
+top:23em;
+
+left: 0.5em;
+}
+#time{
+    position: absolute;
+    left:4.5em
+}
+.info1Style{
+
+    position: absolute;
+    left: 37em;
+    top:13em;
+    background-color: rgb(115, 218, 209);
+    width:21em;
+    height:25em;
+    border-bottom-left-radius:1em ;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;        
+  
+  
+}
